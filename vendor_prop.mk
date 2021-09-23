@@ -178,7 +178,7 @@ ro.surface_flinger.max_virtual_display_dimension=4096
 
 # Fling Velocity
 PRODUCT_PROPERTY_OVERRIDES += \ 
-ro.min.fling_velocity=160
+ro.min.fling_velocity=160 \
 ro.max.fling_velocity=20000
 
 # Properties
