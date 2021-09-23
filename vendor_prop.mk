@@ -181,6 +181,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 ro.min.fling_velocity=160 \
 ro.max.fling_velocity=20000
 
+
 # Properties
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.config.fha_enable=true \
